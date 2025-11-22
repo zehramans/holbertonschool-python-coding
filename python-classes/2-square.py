@@ -9,7 +9,7 @@ class Square:
     and here
     """
 
-    def __init__(self, size):
+    def __init__(self, size=0):
         """
         and here
         """
